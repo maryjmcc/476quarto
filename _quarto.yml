@@ -3,19 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "quarto5"
+  title: "BIO476 Evo"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd 
         text: About
-      - href: projects.qmd
-        text: Lab
+      - href: labs.qmd
+        text: Labs
+      - href: project.qmd
+        text: Project
+      - href: presentation.qmd
+        text: Presentation
 
 format:
   html:
-    theme: darkly
+    theme: journal
     css: styles.css
     toc: true
 

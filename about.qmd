@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+![](IMG_8908.jpg)
 
-```{r}
-1 + 1
-```
+Created by a senior biology student at UMass Amherst (not pictured)
