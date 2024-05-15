@@ -1,7 +1,0 @@
----
-title: "Labs"
----
-
--   Lab 1
-
--   Lab 2

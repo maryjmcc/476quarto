@@ -1,0 +1,19 @@
+---
+title: "Acidobacteriota"
+---
+
+![](Acidobacterium.jpg){fig-align="center"}
+
+Acidobacteriota are a diverse phylum of bacteria that can be found in many different habitats, such as soil, oceans, caves, and hot springs. Most members of this phylum are acidophilic. Despite how common they are, not much is known about acidobacteria, as they are difficult to grow in culture.
+
+Acidobacteria are believed to play several ecological roles, such as plant-growth promoting rhizobacteria, decomposers, especially of complex carbohydrates, as well as sulfur metabolism. They are also considered keystone taxa, which are taxa that are important for the stability of the ecosystem in grasslands, forests, and agricultural soils.
+
+![Acidobacteriota on the NEON phylogenetic tree](acidotree_whole.jpg){fig-align="center"}
+
+![Counts of Acidobacteriota at the NEON sites](acidocounts.jpg){fig-align="center"}
+
+![Acidobacteriota at each site by class](497 Acidobacteria at Each Site.png){fig-align="center"}
+
+![Acidobacteriota at each site by order](Acido orders at each site.png){fig-align="center"}
+
+![Sankey plot of Acidobacteriota phylogeny](acido_ind.png)

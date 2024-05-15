@@ -1,0 +1,17 @@
+---
+title: "References"
+---
+
+“Acidobacteriota.” *Wikipedia*, https://en.wikipedia.org/wiki/Acidobacteriota.
+
+Huber, Katharina J., et al. “Editorial: Acidobacteria – Towards Unraveling the Secrets of a Widespread, Though Enigmatic, Phylum.” *Frontiers in Microbiology*, vol. 13, June 2022, https://doi.org/10.3389/fmicb.2022.960602.
+
+Kalam, Sadaf, et al. “Recent Understanding of Soil Acidobacteria and Their Ecological Significance: A Critical Review.” *Frontiers in Microbiology*, vol. 11, Oct. 2020, https://doi.org/10.3389/fmicb.2020.580024.
+
+“Wind River Experimental Forest NEON / WREF.” *NEON Science*, https://www.neonscience.org/field-sites/wref.
+
+Code used to generate graphs used in this report may be found in the github repo.
+
+*This is a Quarto website.*
+
+*To learn more about Quarto websites visit <https://quarto.org/docs/websites>.*

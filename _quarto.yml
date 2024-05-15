@@ -8,14 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd 
-        text: About
-      - href: labs.qmd
-        text: Labs
-      - href: project.qmd
-        text: Project
-      - href: presentation.qmd
-        text: Presentation
+      - href: acido.qmd
+        text: Acidobacteriota
+      - href: WREF.qmd
+        text: Wind River Experimental Forest
+      - href: ref.qmd
+        text: References
+   
 
 format:
   html:

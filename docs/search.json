@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "BIO476 Evo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Project by Mary McCloskey, Lydia Pollard, Sukhbir Singh"
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,26 @@
     "title": "Labs",
     "section": "",
     "text": "Lab 1\nLab 2"
+  },
+  {
+    "objectID": "acido.html",
+    "href": "acido.html",
+    "title": "Acidobacteriota",
+    "section": "",
+    "text": "Acidobacteriota are a diverse phylum of bacteria that can be found in many different habitats, such as soil, oceans, caves, and hot springs. Most members of this phylum are acidophilic. Despite how common they are, not much is known about acidobacteria, as they are difficult to grow in culture.\nAcidobacteria are believed to play several ecological roles, such as plant-growth promoting rhizobacteria, decomposers, especially of complex carbohydrates, as well as sulfur metabolism. They are also considered keystone taxa, which are taxa that are important for the stability of the ecosystem in grasslands, forests, and agricultural soils.\n\n\n\nAcidobacteriota on the NEON phylogenetic tree\n\n\n\n\n\nCounts of Acidobacteriota at the NEON sites\n\n\n\n\n\nAcidobacteriota at each site by class\n\n\n\n\n\nAcidobacteriota at each site by order\n\n\n\n\n\nSankey plot of Acidobacteriota phylogeny"
+  },
+  {
+    "objectID": "WREF.html",
+    "href": "WREF.html",
+    "title": "Wind River Experimental Forest",
+    "section": "",
+    "text": "The Wind River Experimental Forest (WREF) is a field site about 40 miles NE of Vancouver, WA in the Gifford Pinchot National Forest. The area is classified as an evergreen forest, populated by douglas firs and western hemlocks of diverse ages. The region’s climate is temperate with an average temperature of 9.2°C and average precipitation of 87.6 in. In the valley of volcanoes, Mt. Rainier and Mt. St. Helens, the soil here is comprised of volcanic ash, pumice, basalt bedrock, and andesite (leftover from lava flows). Among the animals living in this area are elk, bobcats, cougars, black bears, various birds, and many small mammals.\nAfter being used as a seedling nursery for post-wildfire forest rehabilitation for almost a century, the NEON site was established in 2006 and sampling for the project began in 2018. \n\n\n\nCount of phylums present at WREF\n\n\n\n\n\nSankey plot of the phylogeny of bacteria present at WREF\n\n\n\n\n\nPhylogenetic tree for bacteria present at WREF\n\n\n\n\n\nSoil pH of the NEON sites\n\n\n\n\n\nSoil temperature and pH at NEON sites\n\n\nWREF has a lower average pH value than the other NEON sites. This may explain why WREF has one of the highest counts of acidobacteriota of the NEON sites, and also why acidobacteriota is the most common phylum at WREF.\n\n\n\nA phylogenetic tree displaying the different phylums present at WREF when the soil pH is less than 7\n\n\n\n\n\nA phylogenetic tree displaying the different phylums present at WREF when the soil pH is less than 4\n\n\nAs seen in the above phylogenetic trees, there is only one phylum, methylomirabilota, that is not present in the pH less than 4.\n\n\n\nThe classes of acidobacteriota present at WREF when the soil pH is less than 4\n\n\n\n\n\nThe classes of acidobacteriota present at WREF when the soil pH is less than 4"
+  },
+  {
+    "objectID": "ref.html",
+    "href": "ref.html",
+    "title": "References",
+    "section": "",
+    "text": "“Acidobacteriota.” Wikipedia, https://en.wikipedia.org/wiki/Acidobacteriota.\nHuber, Katharina J., et al. “Editorial: Acidobacteria – Towards Unraveling the Secrets of a Widespread, Though Enigmatic, Phylum.” Frontiers in Microbiology, vol. 13, June 2022, https://doi.org/10.3389/fmicb.2022.960602.\nKalam, Sadaf, et al. “Recent Understanding of Soil Acidobacteria and Their Ecological Significance: A Critical Review.” Frontiers in Microbiology, vol. 11, Oct. 2020, https://doi.org/10.3389/fmicb.2020.580024.\n“Wind River Experimental Forest NEON / WREF.” NEON Science, https://www.neonscience.org/field-sites/wref.\nCode used to generate graphs used in this report may be found in the github repo.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
