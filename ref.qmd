@@ -10,7 +10,7 @@ Kalam, Sadaf, et al. “Recent Understanding of Soil Acidobacteria and Their Eco
 
 “Wind River Experimental Forest NEON / WREF.” *NEON Science*, https://www.neonscience.org/field-sites/wref.
 
-Code used to generate graphs used in this report may be found in the github repo.
+Code used to generate graphs, or code edited to generate graphs used in this report may be found in [the github repo](https://github.com/maryjmcc/476quarto).
 
 *This is a Quarto website.*
 
